@@ -1,0 +1,6 @@
+This paragram could covert the deep sequences to fake color image,
+and save this fake color images to the ColorImage folder.
+instructions:
+Put the deep sequence to MSRAction3D
+
+Run run.mat to start.
